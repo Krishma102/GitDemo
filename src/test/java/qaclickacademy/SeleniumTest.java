@@ -16,5 +16,8 @@ public class SeleniumTest {
 	public void elemnetsUI()
 	{
 		System.out.println(" elemnetsUI");
+		System.out.println(" BrowserAutomation3");
+		System.out.println(" BrowserAutomation4");
+		System.out.println(" BrowserAutomation5");
 	}
 }
