@@ -19,5 +19,8 @@ public class SeleniumTest {
 		System.out.println(" BrowserAutomation3");
 		System.out.println(" BrowserAutomation4");
 		System.out.println(" BrowserAutomation5");
+		System.out.println(" BrowserAutomation5");
+		System.out.println(" BrowserAutomation5");
+		System.out.println(" BrowserAutomation5");
 	}
 }
